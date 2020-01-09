@@ -1,8 +1,8 @@
 {
-  "country_1": "CA",
-  "country_2": "Canada",
-  "currency": "CA$",
-  "FaceBookCurrency": "GBP",
+  "country_1": "US",
+  "country_2": "United States",
+  "currency": "$",
+  "FaceBookCurrency": "USD",
   "products": [
     {
       "cid": 9,
@@ -23,7 +23,7 @@
       "buy_2_get_1": "Buy 2 and get 1 for free",
       "satisfaction_guaranteed": "Satisfaction<br>Guaranteed",
       "add_to_cart": "Add to Cart",
-      "support_email": "support@fegcan.com"
+      "support_email": "support@fegserum-us.com"
     }
   ]
 }
